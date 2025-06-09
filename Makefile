@@ -1,6 +1,6 @@
 # Config
 ARCH = arm64
-IOS_VERSION = 8.0
+IOS_VERSION = 14.0
 EXECUTABLE_NAME = MJAppTools
 
 # Dirs
